@@ -2,7 +2,7 @@
 
 Daily login rewards with normal and VIP tracks, streaks, VIP codes, Tebex VIP, live admin panel and four layouts
 
-**Latest version:** `1.0.1` · [Changelog](CHANGELOG.md) · [Releases](https://github.com/mkscriptss/mk_dailyrewards/releases)
+**Latest version:** `1.0.2` · [Changelog](CHANGELOG.md) · [Releases](https://github.com/mkscriptss/mk_dailyrewards/releases)
 
 ## Where to get it
 
